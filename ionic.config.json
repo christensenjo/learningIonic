@@ -1,0 +1,7 @@
+{
+  "name": "learningIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
